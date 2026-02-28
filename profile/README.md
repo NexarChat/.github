@@ -2,7 +2,7 @@
 
 **Nexar Chat** is a hybrid communication platform designed to support both centralized and decentralized deployment models.
 
-Our goal is to provide a modern, self-hostable, secure, and modular alternative to traditional communication platforms — while giving users full control over their infrastructure.
+Our goal is to provide a modern, self-hostable, secure, and modular alternative to traditional communication platforms while giving users full control over their infrastructure.
 
 ---
 
@@ -24,10 +24,10 @@ This allows individuals, communities, and organizations to choose their preferre
 
 The organization is structured into separate repositories:
 
-* **Server** – Backend implementation (API, auth, realtime, persistence)
-* **Client** – Frontend application
-* **Core** – Integration repository (uses Git submodules to reference Server and Client)
-* **.github** – Organization-wide configuration (this repository)
+* **Server** Backend implementation (API, auth, realtime, persistence)
+* **Client** Frontend application
+* **Core** Integration repository (uses Git submodules to reference Server and Client)
+* **.github** Organization-wide configuration (this repository)
 
 ---
 

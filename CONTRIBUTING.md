@@ -78,4 +78,4 @@ PRs must:
 ## Security
 
 Security vulnerabilities should **not** be opened publicly as issues.  
-Instead, contact: `security@nexar.dev`
+Instead, contact: `security@nexar.chat`
